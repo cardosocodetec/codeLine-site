@@ -159,6 +159,18 @@ input {
 	padding: 10px 20px;
 	width: 100%;
 }
+
+#whats-size{
+	width: 1.6rem;
+	margin-right: 0.6rem;
+}
+
+#whats-size2{
+	padding: 0.3rem;
+
+}
+
+
 button {
 	background-image: -webkit-linear-gradient(left, #ff67cb 0%,#ffcc67 99%);
 	background-image: linear-gradient(to right, #ff67cb 0%,#ffcc67 99%);
@@ -184,7 +196,7 @@ button:focus {
 	font-size: 26px;
 	font-weight: bold;
 	margin-bottom: 30px;
-	text-transform: capitalize;
+	/*text-transform: capitalize;*/
 }
 .title_default_light h4,
 .title_default_light p {
@@ -953,17 +965,17 @@ button.btn-white {
 	background: rgba(255,255,255,0.20);
 }
 .scrollup {
-	border-radius: 4px;
+	border-radius: 8px;
 	bottom: 30px;
 	color: #ffffff;
 	display: none;
 	font-size: 30px;
-	height: 40px;
+	height: 55px;
 	line-height: 40px;
 	position: fixed;
 	right: 20px;
 	text-align: center;
-	width: 40px;
+	width: 55px;
 	z-index: 99;
 }
 .btn + .btn:last-child {
