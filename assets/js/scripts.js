@@ -423,13 +423,7 @@ Version      : 1.8
 		}
 	});
 	
-	$(".scrollup").on('click', function (e) {
-		e.preventDefault();
-		$('html, body').animate({
-			scrollTop: 0
-		}, 600);
-		return false;
-	});
+
 	
 	/*===================================*
 	12. POPUP JS

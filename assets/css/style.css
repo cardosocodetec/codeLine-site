@@ -1141,7 +1141,7 @@ header.nav-fixed {
 	padding: 5px 0;
 }
 .nav-fixed .navbar-brand img {
-	max-width: 180px;
+	max-width: 115px;
 }
 header.no-sticky {
 	left: 0;
@@ -1201,7 +1201,7 @@ header a:hover,
 	line-height: normal;
 }
 .navbar-expand-lg .navbar-nav.nav_btn a.btn {
-	padding: 10px 25px;
+	padding: 7px 20px;
 }
 .dropdown-toggle::after,.dropdown-toggler::after {
 	border: 0 none;
@@ -5687,7 +5687,7 @@ button.btn-white:hover {
 .blog_content p {
 	height: 85px;
 	margin: 0 0 10px;
-	overflow: hidden;
+
 }
 .blog_meta a {
 	color: #444444;
@@ -6483,3 +6483,36 @@ button.btn-white:hover {
 /*===================================*
 26. END TOKEN NOTIFICATION POPUP
 *====================================*/
+
+#fundo-branco{
+	width: 100%;
+	background-color: white;
+	border-radius: 8px;
+	padding: 1rem;
+}
+
+#contato{
+	background-color: #CDDB00;
+}
+
+#code{
+	width: 9rem;
+}
+
+#celular{
+	color: white;
+	
+}
+
+#celular:hover{
+	color: #CDDB00;
+}
+
+#mail{
+	color: white;
+  font-size: 0.8rem;
+}
+
+#mail:hover{
+	color: #CDDB00;
+}

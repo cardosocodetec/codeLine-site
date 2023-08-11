@@ -53,7 +53,7 @@ header a:hover,
 .doc_lan li a:hover span i,
 .tab_nav_s2 li.nav-item a.active, 
 .tab_nav_s2 li.nav-item a:hover {
-	color: #ff69c9;
+	color: #CDDB00;
 }
 .pr_box h6,
 .chart_list_info li p span,
@@ -87,15 +87,15 @@ header a:hover,
 .timeline_box.complete::before,
 .timeline_box.current .timeline_inner,
 .timeline .owl-nav i:hover {
-	background-color: #ff69c9;
+	background-color: #CDDB00;
 }
 .roadmap_box.current .roadmap_inner::before,
 .timeline_box.current .timeline_inner::before {
-	border-color: rgba(0, 0, 0, 0) rgba(0, 0, 0, 0) #ff67cb;
+	border-color: rgba(0, 0, 0, 0) rgba(0, 0, 0, 0) #CDDB00;
 }
 .btn-default {
-	background-image: -webkit-linear-gradient(left, #ff67cb 0%,#ffcc67 51%,#ff67cb);
-	background-image: linear-gradient(to right, #ff67cb 0%,#ffcc67 51%,#ff67cb);
+	background-image: -webkit-linear-gradient(left, #34af23 0%,#34af23 51%,#CDDB00);
+	background-image: linear-gradient(to right, #34af23 0%,#34af23 51%,#CDDB00);
 }
 .btn-default.active.focus, 
 .btn-default.active:focus, 
@@ -108,8 +108,8 @@ header a:hover,
 .btn-default:focus,
 .btn.active:not(:disabled):not(.disabled), 
 .btn:active:not(:disabled):not(.disabled) {
-	background-image: -webkit-linear-gradient(left, #ffcc67 0%,#ff67cb 51%,#ffcc67);
-	background-image: linear-gradient(to right, #ffcc67 0%,#ff67cb 51%,#ffcc67);
+	background-image: -webkit-linear-gradient(left, #CDDB00 0%,#CDDB00 51%,#CDDB00);
+	background-image: linear-gradient(to right, #CDDB00 0%,#CDDB00 51%,#CDDB00);
 }
 .btn-border,
 .btn.btn-border:hover,
@@ -124,24 +124,24 @@ header a:hover,
 .btn.btn-border:focus,
 .doc_dropdown > a, .doc_dropdown > a:hover,
 .doc_dropdown .dropdown-menu {
-	background-image: -webkit-linear-gradient(left, #ffcc67 0%,#ff67cb 99%);
-	background-image: linear-gradient(to right, #ffcc67 0%,#ff67cb 99%);
+	background-image: -webkit-linear-gradient(left, #CDDB00 0%,#CDDB00 99%);
+	background-image: linear-gradient(to right, #CDDB00 0%,#CDDB00 99%);
 }
 button,
 .team_img.gradient_box::before,
 .team_pop .progress-bar,
 .tk_counter_inner .progress-bar.gradient,
 .faq_content4 .card-header a::after {
-	background-image: -webkit-linear-gradient(left, #ff67cb 0%,#ffcc67 99%);
-	background-image: linear-gradient(to right, #ff67cb 0%,#ffcc67 99%);
+	background-image: -webkit-linear-gradient(left, #CDDB00 0%,#ffcc67 99%);
+	background-image: linear-gradient(to right, #CDDB00 0%,#ffcc67 99%);
 }
 .gradient_box {
-	background-image: -webkit-linear-gradient(left, #ff67cb 0%,#ffcc67 99%) !important;
-	background-image: linear-gradient(to right, #ff67cb 0%,#ffcc67 99%) !important;
+	background-image: -webkit-linear-gradient(left, #CDDB00 0%,#ffcc67 99%) !important;
+	background-image: linear-gradient(to right, #CDDB00 0%,#ffcc67 99%) !important;
 }
 .team_social_s2 {
-	background-image: -webkit-linear-gradient(top, #ff67cb 0%,#ffcc67 99%);
-	background-image: linear-gradient(to bottom, #ff67cb 0%,#ffcc67 99%);
+	background-image: -webkit-linear-gradient(top, #CDDB00 0%,#ffcc67 99%);
+	background-image: linear-gradient(to bottom, #CDDB00 0%,#ffcc67 99%);
 }
 .dl_lan li a {
 	border-color: #ffcc68;
@@ -152,5 +152,9 @@ button,
 .video_wrap::before,
 .tab_nav_s4 li.nav-item a.active,
 .timeline_box.complete .timeline_circle::before {
-	border-color: #ff69c9;
+	border-color: #CDDB00;
+}
+
+#contato{
+	background-color: #CDDB00;
 }
